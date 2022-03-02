@@ -1,0 +1,21 @@
+{
+    "name": "tjplay/api_php",
+    "description": "Uma api_php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+           "App\\": "App"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Guilherme TJ",
+            "email": "guips1998@gmail.com"
+        }
+    ],
+    "require": {}
+}
